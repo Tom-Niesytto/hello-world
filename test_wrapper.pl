@@ -1,5 +1,6 @@
 #!/usr/bin/perl
-
+#some weird Perl test
+#
 my %inner;
 
 my @array = ('one','two','three');
