@@ -1,3 +1,4 @@
+my $i;
 for (@INC) {
-    printf "%d %s\n", $i++, $_
+    printf("%d %s\n", $i++, $_)
 }
